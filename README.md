@@ -9,7 +9,7 @@ Welcome to the **BMI Calculator**! This web app helps you calculate your Body Ma
 - 📱 **Responsive Design**: Built with ReactJS and Bootstrap to ensure compatibility across devices.
 
 ## 🌐 Demo
-Check out the live demo: [BMI Calculator](https://your-github-bawanisandunika.github.io/bmi-calculator)
+Check out the live demo:[ [BMI Calculator](https://your-github-bawanisandunika.github.io/bmi-calculator)](https://github.com/bawanisandunika/BMI-Calculator/tree/main)
 
 ## 🛠️ How to Use
 1. Enter your age, gender, height, and weight.
